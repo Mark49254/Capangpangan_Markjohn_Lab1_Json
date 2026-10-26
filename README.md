@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Lab Exercise 1
-![My Image](screenshots/lab1.png)
+![My Image](screenshots1.png)
 
 ### Lab Exercise 2
 ![My Image](screenshots/lab2.png)
